@@ -9,7 +9,7 @@
         {
           "type": "os",
           "style": "diamond",
-          "powerline_symbol": "\ue0c4",
+          "powerline_symbol": "",
           "foreground": "#f2f3f4",
           "background": "#1CA6A3"
         },
